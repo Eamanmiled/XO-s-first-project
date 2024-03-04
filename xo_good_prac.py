@@ -43,7 +43,7 @@ class Game:
             return True
         elif grid[0][0] == grid[1][1] == grid[2][2] != " ":
             return True
-        elif grid[1][2] == grid[1][1] == grid[2][0] != " ":
+        elif grid[0][2] == grid[1][1] == grid[2][0] != " ":
             return True
         else:
             return False
