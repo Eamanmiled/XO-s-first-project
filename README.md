@@ -1,7 +1,7 @@
 # XO-s-first-project
 
 ## Description
-Play the all time classic game of XO's against the computer or against a friend
+Play the all time classic game of XO's against the computer or against a friend.
 
 ## Features
 - **vs AI**: Lonely? Dont worry play against your computer.
